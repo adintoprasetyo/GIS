@@ -12,7 +12,9 @@ jika di satukan dan pengertian sistem informasi dan geografis menjadi sistem kom
 
 Selanjut nya kita akan membahas apa itu yang dimaksud dengan koordinat adalah aturan yang menentukan bagaimana koordinat latitude dan longitude yang mepresentasikan titik atau objek pada suatu peta.
 Koordinat dibedakan menjadi dua yaitu latitude dan longitude, pengertian latitude adalah garis lintang yang menentukan lokasi disebelah utara atau selatan equator, dan longitude adalah garis bujur yang menentukan lokasi diwilayah barat atau timur yang disebut juga garis meridian
-
+<p align="center">
+    <img src="../../img/GIS.PNG">
+    </p>
 Dan dimana titik 0 bumi berada?, titik 0 bumi berada di greenwich kenapa kenapa titik 0 bisa berada di greenwich dikarenakan inggris adalah negara yang paling banyak menjajah
 
 Penutup: kesimpulannya yang dimaksud dengan sistem informasi geografis adalah sistem informasi unik yang mengampukan sesuatu informasi spasial(ruang).
